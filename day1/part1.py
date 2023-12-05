@@ -18,3 +18,4 @@ with open("input.txt", "r") as f:
         total += d
 
 print(total)
+# 54951
